@@ -1,9 +1,6 @@
 ## SafeSite Plus  
 **AI-Powered Construction Safety - Monitoring, Detection, Risk Prevention & Smart Workflows**
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/25f14b5d-9ec8-49f6-9727-8e76df8413ee" alt="SAFESITE PLUS Logo" width="120"/>
-</p>
+<img src="https://github.com/user-attachments/assets/25f14b5d-9ec8-49f6-9727-8e76df8413ee" alt="SAFESITE PLUS Logo" width="40" style="vertical-align:middle; margin-left: 10px;" />
 
 ---
 
