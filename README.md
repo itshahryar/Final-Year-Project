@@ -1,8 +1,8 @@
-## AI-Powered Construction Safety:  
-**Monitoring, Detection, Risk Prevention & Smart Workflows**
+## SafeSite Plus:  
+**AI-Powered Construction Safety - Monitoring, Detection, Risk Prevention & Smart Workflows**
 
 ---
-(https://github.com/user-attachments/assets/d939ed9a-5238-40e8-97ae-7e3a9d901587)
+![SAFESITE PLUS](https://github.com/user-attachments/assets/25f14b5d-9ec8-49f6-9727-8e76df8413ee)
 
 ---
 
@@ -22,8 +22,7 @@
 - [Technologies and Tools](#technologies-and-tools)  
 - [Installation](#installation)  
 - [Development Environments](#development-environments)  
-- [Datasets & Annotation Tools](#datasets--annotation-tools)  
-- [Team Members](#team-members)
+- [Datasets & Annotation Tools](#datasets--annotation-tools)
 
 ---
 
