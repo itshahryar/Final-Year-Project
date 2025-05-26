@@ -14,12 +14,16 @@
 ---
 
 ## Table of Contents
+
 - [Problem Statement](#problem-statement)  
 - [Solution Overview](#solution-overview)  
 - [Project Scope](#project-scope)  
 - [Modules](#modules)  
 - [Technologies and Tools](#technologies-and-tools)  
 - [Installation](#installation)  
+- [Development Environments](#development-environments)  
+- [Datasets & Annotation Tools](#datasets--annotation-tools)  
+- [Team Members](#team-members)
 
 ---
 
