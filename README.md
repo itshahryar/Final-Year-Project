@@ -1,8 +1,9 @@
-## SafeSite Plus:  
+## SafeSite Plus  
 **AI-Powered Construction Safety - Monitoring, Detection, Risk Prevention & Smart Workflows**
 
----
-![SAFESITE PLUS](https://github.com/user-attachments/assets/25f14b5d-9ec8-49f6-9727-8e76df8413ee)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/25f14b5d-9ec8-49f6-9727-8e76df8413ee" alt="SAFESITE PLUS Logo" width="120"/>
+</p>
 
 ---
 
@@ -20,7 +21,6 @@
 - [Project Scope](#project-scope)  
 - [Modules](#modules)  
 - [Technologies and Tools](#technologies-and-tools)  
-- [Installation](#installation)  
 - [Development Environments](#development-environments)  
 - [Datasets & Annotation Tools](#datasets--annotation-tools)
 
