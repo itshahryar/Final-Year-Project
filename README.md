@@ -1,17 +1,15 @@
-![SAFESITE PLUS](https://github.com/user-attachments/assets/a5b6cc59-6502-4b27-bab6-62c7f4538c3b)# SafeSite Plus
-
 ## AI-Powered Construction Safety:  
 **Monitoring, Detection, Risk Prevention & Smart Workflows**
 
 ---
-
-![SafeSite Plus Logo]![SAFESITE PLUS](https://github.com/user-attachments/assets/d939ed9a-5238-40e8-97ae-7e3a9d901587)
-
+(https://github.com/user-attachments/assets/d939ed9a-5238-40e8-97ae-7e3a9d901587)
 
 ---
 
 ## Team Members
-*(Add your team members here)*
+
+- Muhammad Shahryar Amjad  
+- Zamin Raza
 
 ---
 
@@ -22,9 +20,6 @@
 - [Modules](#modules)  
 - [Technologies and Tools](#technologies-and-tools)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
@@ -138,9 +133,3 @@ SafeSite Plus is designed to provide construction site supervisors and admins wi
 - LabelImg (image annotation tool)  
 - Dataset merging and preprocessing for unified training data  
 ---
-
-## Installation
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/safesite-plus.git
